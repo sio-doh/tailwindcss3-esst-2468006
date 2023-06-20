@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
   const cast = [
     { id: 0, name: 'Aneirin', slug: 'aneirin', bio: 'Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F.'},
     { id: 1, name: 'Celestia Dristi', slug: 'celestia-dristi', bio: 'Helps individuals and companies to improve personal and professional agility and growth in technology and systems.'},
